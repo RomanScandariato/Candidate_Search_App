@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
@@ -31,3 +32,7 @@ export default {
 
 ---
 © 2024 edX Boot Camps LLC. Confidential and Proprietary. All Rights Reserved.
+=======
+# Candidate_Search_App
+Candidate Search App
+>>>>>>> 28d6f7278210c0538c633f069e41f8c8e971c910
